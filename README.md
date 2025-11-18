@@ -1,5 +1,5 @@
 super grok its now opened plz  # Grok prompts
-
+6c96965f64d25c003302b2547944e3beb7d99d61
 We are regularly updating this repository with the system prompts that we use for the Grok chat assistant and various product features across X and grok.com.
 
 ## Prompts
